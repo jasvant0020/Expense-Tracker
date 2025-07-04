@@ -48,6 +48,7 @@ Do you want to add more expenses? (yes/no):
 
 - Copy code
    -- expense_tracker
+  
       ├── expense.csv             
       └── tracker.py
 ---
@@ -58,8 +59,9 @@ Do you want to add more expenses? (yes/no):
    git clone https://github.com/jasvant0020/Expense-Tracker.git
    cd expense-tracker
 - Run the application
-   python tracker.py
-- 💡 Make sure you have Python 3 installed.
+-- python tracker.py
+- 💡 Make sure
+-- you have Python 3 installed.
 ---
 ## 📦 Requirements
 
