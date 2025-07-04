@@ -47,7 +47,7 @@ Do you want to add more expenses? (yes/no):
 ## 📁 File Structure
 
 - Copy code
-   -- expense_tracker/
+   -- expense_tracker
       ├── expense.csv             
       └── tracker.py
 ---
@@ -55,7 +55,7 @@ Do you want to add more expenses? (yes/no):
 
 - Clone the repository
 
-   git clone https://github.com/your-username/expense-tracker.git
+   git clone https://github.com/jasvant0020/Expense-Tracker.git
    cd expense-tracker
 - Run the application
    python tracker.py
@@ -95,8 +95,8 @@ Do you want to add more expenses? (yes/no):
 - This project is licensed under the MIT License.
 ---
 ## 💬 Author
-- Made with ❤️ by [Your Name]
-- 🔗 GitHub | 📧 your.email@example.com
+- Made with ❤️ by jasvant0020 
+- 🔗 GitHub 
 
 
 
